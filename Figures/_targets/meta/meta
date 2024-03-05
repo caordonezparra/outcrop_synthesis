@@ -1,0 +1,8 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+create_barplot|function|ec07a624130e7416|||||||||||||||
+data|stem|a47d004bea670703|43fae4011a0626f4|ef46db3751d8e999|33550471||t19786.7780924769s|d3f02792370ba5c4|1745|rds|local|vector|||0.005||
+Figure_1E1|stem|b6378d05160f39bf|7c33ed1f4d5e4296|7cba3ea673a32552|1367998273||t19787.0063623843s|2911033cf0e6af15|174080|rds|local|vector|||0.08||
+Figure_1E2|stem|fc4b2b1ccb4eceeb|348ae898ea22e763|7cba3ea673a32552|334411278||t19787.0063633102s|1f1167276f40626c|174081|rds|local|vector|||0.008||
+model|stem|d111d6e57fea39a1|ae83bc723fe2997c|4d37c857cd3e6f9e|808688450||t19786.7780945602s|4bab66ba4bee4440|108|rds|local|vector|||0.002||
+vegetation|object|4e74eda0a3dfdfd3|||||||||||||||
+vegetationColors|object|63b46d59d50ad2bc|||||||||||||||
