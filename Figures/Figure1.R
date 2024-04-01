@@ -9,7 +9,7 @@ setwd("/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/Figures")
 
 #### 1. Load the packages (assuming they are already installed) ####
 
-library(targets) # v. 1.5.1 for creating pipelines
+library(targets) # v. 1.5.1 for creating and running pipelines
 
 #### 3. Making the barplots ####
 

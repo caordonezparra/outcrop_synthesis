@@ -1,26 +1,24 @@
-library(targets)
-library(readr)
-library(dplyr)
+# This is the _targets.R file with the pipeline that is going to allow us to create Figure 1.
 
-source("create_barplot.R")
-source("figure_panel.R")
+# The following are the five packages that we will need to use to run the whole pipeline
 
-tar_option_set(packages = c("readr", "dplyr", "ggplot2", "cowplot", "sv"))
+library(targets) # v. 1.5.1 for creating and running pipelines
+library(readr) # v. 2.1.5 for loading datasets.
+library(dplyr) # v. 1.1.4 for data frame manipulation.
+library(ggplot2) # v. 3.4.4 for creating different visualizations
+library(cowplot) # v. 1.1.3 for creating plot grids.
+library(svglite) # v. 2.1.3 for creating '.svg' files.
 
-prep_veg <- function(fdat){
-  vegetation <- fdat %>%
-    mutate(Vegetation = as.factor(Vegetation),
-           dummy = "dummy")
-  
-  ## Now, we'll indicate the order that we want each vegetation type to appear.
-  
-  vegetation$Vegetation <- ordered(vegetation$Vegetation,
-                                   levels = c("Inselberg",
-                                              "Campo de altitude",
-                                              "Canga",
-                                              "Campo rupestre"))
-  return(vegetation)
-}
+# We'll source the two functions that we have written to create this figure.
+
+source("prep_veg.R")
+source("create_barplot.R") # The one that will create the barplots.
+source("figure_panel.R") # The one that will put them together in a grid.
+
+# To start the pipeline, we will call explicitly the packages the pipeline is going to use.
+
+tar_option_set(packages = c("readr", "dplyr", "ggplot2", "cowplot", "svglite"))
+
 
 vegetationColors <- c("Inselberg" = "#DECC63", "Campo de altitude" = "#799664",
                       "Canga" = "#997054", "Campo rupestre" = "#B3B4AE")
