@@ -3,6 +3,7 @@
 # The following are the five packages that we will need to use to run the whole pipeline
 
 library(targets) # v. 1.5.1 for creating and running pipelines
+library(gert) # v. 2.0.1 for managing Git repositories
 library(readr) # v. 2.1.5 for loading datasets.
 library(dplyr) # v. 1.1.4 for data frame manipulation.
 library(ggplot2) # v. 3.4.4 for creating different visualizations
@@ -17,14 +18,14 @@ source("figure_panel.R") # The one that will put them together in a grid.
 
 # To start the pipeline, we will call explicitly the packages the pipeline is going to use.
 
-tar_option_set(packages = c("readr", "dplyr", "ggplot2", "cowplot", "svglite"))
+tar_option_set(packages = c("gert", "stringr", "readr", "dplyr", "ggplot2", "cowplot", "svglite"))
 
 
 vegetationColors <- c("Inselberg" = "#DECC63", "Campo de altitude" = "#799664",
                       "Canga" = "#997054", "Campo rupestre" = "#B3B4AE")
 
 list(
-  tar_target(raw_myfile, "/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/vegetation.csv", format = "file"),
+  tar_target(raw_myfile, str_c(git_find(),"/vegetation.csv"), format = "file"),
   tar_target(mydat, read_csv(raw_myfile)),
   tar_target(vegetation, prep_veg(mydat)),
   tar_target(Figure_1E1, create_barplot(vegetation, nStudies, "Studies Percentage (%)")),
