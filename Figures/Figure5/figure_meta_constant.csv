@@ -1,0 +1,145 @@
+Temperature,Mods,Variable,post_mean,Lower,Upper,Significant,nSpecies,nObservations
+10,All,Percentage,-4.295,-4.96,-3.613,Yes,8,88
+10,Growth form,Percentage,,,,,,
+10,Herb,Percentage,,,,,,
+10,Shrub,Percentage,,,,,,
+10,Distribution,Percentage,,,,,,
+10,Restricted,Percentage,-2.142,-3.194,-1.145,Yes,3,28
+10,Widespread,Percentage,-5.5047,-6.3933,-4.6912,Yes,5,60
+10,Microhabitat,Percentage,,,,,,
+10,Mesic,Percentage,,,,,,
+10,Mesic/Xeric,Percentage,,,,,,
+10,Xeric,Percentage,,,,,,
+10,Seed mass,Percentage,1.24186,0.63079,1.84254,Yes,8,88
+15,All,Percentage,-1.919,-2.176,-1.663,Yes,46,468
+15,Growth form,Percentage,,,,,,
+15,Herb,Percentage,-1.1193,-1.4746,-0.7862,Yes,16,220
+15,Shrub,Percentage,-2.661,-3.045,-2.261,Yes,30,248
+15,Distribution,Percentage,,,,,,
+15,Restricted,Percentage,-1.808,-2.267,-1.363,Yes,30,248
+15,Widespread,Percentage,-1.975,-2.313,-1.667,Yes,32,336
+15,Microhabitat,Percentage,,,,,,
+15,Mesic,Percentage,-1.612,-1.988,-1.262,Yes,18,188
+15,Mesic/Xeric,Percentage,-0.6832,-1.2501,-0.159,Yes,6,88
+15,Xeric,Percentage,-2.877,-3.346,-2.43,Yes,22,192
+15,Seed mass,Percentage,-0.02271,-0.30893,0.26988,No,42,428
+20,All,Percentage,-0.01941,-0.19524,0.16452,No,62,660
+20,Growth form,Percentage,,,,,,
+20,Herb,Percentage,0.6664,0.395,0.9368,Yes,24,316
+20,Shrub,Percentage,-0.572,-0.7987,-0.3395,Yes,38,344
+20,Distribution,Percentage,,,,,,
+20,Restricted,Percentage,0.23831,-0.08791,0.55131,No,21,216
+20,Widespread,Percentage,-0.1481,-0.3782,0.0726,No,41,444
+20,Microhabitat,Percentage,,,,,,
+20,Mesic,Percentage,0.09489,-0.18018,0.36291,No,20,216
+20,Mesic/Xeric,Percentage,0.46264,0.03816,0.91225,Yes,12,160
+20,Xeric,Percentage,-0.3861,-0.6786,-0.0886,Yes,30,284
+20,Seed mass,Percentage,-0.34065,-0.53437,-0.14784,Yes,30,620
+30,All,Percentage,-0.5284,-0.7103,-0.3417,Yes,60,640
+30,Growth form,Percentage,,,,,,
+30,Herb,Percentage,0.0918,-0.2049,0.3566,No,24,316
+30,Shrub,Percentage,-1.0538,-1.286,-0.8189,Yes,36,324
+30,Distribution,Percentage,,,,,,
+30,Restricted,Percentage,-0.26429,-0.53779,0.01925,No,36,216
+30,Widespread,Percentage,-0.6625,-0.9199,-0.4184,Yes,39,424
+30,Microhabitat,Percentage,,,,,,
+30,Mesic,Percentage,-0.7195,-0.995,-0.4348,Yes,20,216
+30,Mesic/Xeric,Percentage,0.2696,-0.2062,0.7473,No,11,148
+30,Xeric,Percentage,-0.7559,-1.032,-0.4824,Yes,29,276
+30,Seed mass,Percentage,-0.187951,-0.387852,0.001654,No,56,600
+35,All,Percentage,-2.4856,-2.793,-2.1963,Yes,60,640
+35,Growth form,Percentage,,,,,,
+35,Herb,Percentage,-2.1531,-2.6258,-1.6836,Yes,23,304
+35,Shrub,Percentage,-2.725,-3.114,-2.367,Yes,37,336
+35,Distribution,Percentage,,,,,,
+35,Restricted,Percentage,-2.132,-2.617,-1.673,Yes,20,204
+35,Widespread,Percentage,-2.66,-3.04,-2.271,Yes,40,436
+35,Microhabitat,Percentage,,,,,,
+35,Mesic,Percentage,-4.019,-4.537,-3.524,Yes,21,224
+35,Mesic/Xeric,Percentage,-0.9293,-1.4252,-0.4161,Yes,11,148
+35,Xeric,Percentage,-2.202,-2.661,-1.738,Yes,28,268
+35,Seed mass,Percentage,0.4549,0.149,0.7503,Yes,56,600
+40,All,Percentage,-1.2488,-1.7844,-0.7083,Yes,15,176
+40,Growth form,Percentage,,,,,,
+40,Herb,Percentage,-1.1882,-1.8925,-0.4537,Yes,7,176
+40,Shrub,Percentage,-1.3173,-2.1218,-0.5242,Yes,8,92
+40,Distribution,Percentage,,,,,,
+40,Restricted,Percentage,-0.9152,-1.4871,-0.3511,Yes,8,84
+40,Widespread,Percentage,-1.6294,-2.6292,-0.6284,Yes,8,92
+40,Microhabitat,Percentage,,,,,,
+40,Mesic,Percentage,-3.6776,-4.6987,-2.6865,Yes,3,36
+40,Mesic/Xeric,Percentage,-1.304,-2.2377,-0.3682,Yes,6,68
+40,Xeric,Percentage,-0.08512,-0.80384,0.65667,No,6,72
+40,Seed mass,Percentage,-1.1487,-1.6724,-0.6054,Yes,15,176
+10,All,Time,,,,,,
+10,Growth form,Time,,,,,,
+10,Herb,Time,,,,,,
+10,Shrub,Time,,,,,,
+10,Distribution,Time,,,,,,
+10,Restricted,Time,,,,,,
+10,Widespread,Time,,,,,,
+10,Microhabitat,Time,,,,,,
+10,Mesic,Time,,,,,,
+10,Mesic/Xeric,Time,,,,,,
+10,Xeric,Time,,,,,,
+10,Seed mass,Time,,,,,,
+15,All,Time,5.4191,4.6905,6.1502,Yes,20,228
+15,Growth form,Time,,,,,,
+15,Herb,Time,5.125,4.385,5.875,Yes,9,140
+15,Shrub,Time,5.903,4.3994,7.4793,Yes,11,88
+15,Distribution,Time,,,,,,
+15,Restricted,Time,7.089,5.617,8.432,Yes,7,64
+15,Widespread,Time,4.752,3.89,5.598,Yes,13,164
+15,Microhabitat,Time,,,,,,
+15,Mesic,Time,5.018,3.351,6.654,Yes,6,68
+15,Mesic/Xeric,Time,6.509,5.503,7.565,Yes,5,80
+15,Xeric,Time,4.6738,3.4816,5.8725,Yes,22,80
+15,Seed mass,Time,-1.1085,-1.8423,-0.3109,Yes,18,204
+20,All,Time,1.0373,0.5119,1.5489,Yes,45,476
+20,Growth form,Time,,,,,,
+20,Herb,Time,0.8349,0.2793,1.3954,Yes,15,208
+20,Shrub,Time,1.1996,0.3617,2.0289,Yes,30,268
+20,Distribution,Time,,,,,,
+20,Restricted,Time,0.79569,-0.06735,1.64439,No,18,184
+20,Widespread,Time,1.1873,0.5291,1.8597,Yes,27,292
+20,Microhabitat,Time,,,,,,
+20,Mesic,Time,1.1848,0.5793,1.8195,Yes,13,136
+20,Mesic/Xeric,Time,1.4943,0.1964,2.8051,Yes,8,116
+20,Xeric,Time,0.76317,-0.06553,1.5383,No,30,334
+20,Seed mass,Time,1.7343,1.1635,2.3003,Yes,41,436
+30,All,Time,0.6604,0.0164,1.3012,Yes,40,432
+30,Growth form,Time,,,,,,
+30,Herb,Time,-0.40963,-0.86887,0.05222,No,14,196
+30,Shrub,Time,1.6899,0.5145,2.8412,Yes,26,236
+30,Distribution,Time,,,,,,
+30,Restricted,Time,-0.9553,-2.0233,0.1315,No,15,152
+30,Widespread,Time,1.4323,0.6347,2.1772,Yes,25,280
+30,Microhabitat,Time,,,,,,
+30,Mesic,Time,2.93,1.457,4.459,Yes,12,128
+30,Mesic/Xeric,Time,-1.3935,-2.4094,-0.4549,Yes,7,104
+30,Xeric,Time,0.315,-0.4887,1.1692,No,21,200
+30,Seed mass,Time,-0.62402,-1.53471,0.25368,No,36,392
+35,All,Time,2.151,1.417,2.943,Yes,26,308
+35,Growth form,Time,,,,,,
+35,Herb,Time,2.239,1.472,2.951,Yes,12,172
+35,Shrub,Time,2.0271,0.4078,3.6288,Yes,14,136
+35,Distribution,Time,,,,,,
+35,Restricted,Time,0.4046,-0.893,1.6855,No,10,104
+35,Widespread,Time,3.085,2.121,4.017,Yes,16,204
+35,Microhabitat,Time,,,,,,
+35,Mesic,Time,2.665,1.06,4.247,Yes,5,60
+35,Mesic/Xeric,Time,1.9238,0.2314,3.5527,Yes,7,104
+35,Xeric,Time,2.173,1.262,3.119,Yes,28,144
+35,Seed mass,Time,0.6134,-0.1931,1.4797,No,23,276
+40,All,Time,,,,,,
+40,Growth form,Time,,,,,,
+40,Herb,Time,,,,,,
+40,Shrub,Time,,,,,,
+40,Distribution,Time,,,,,,
+40,Restricted,Time,,,,,,
+40,Widespread,Time,,,,,,
+40,Microhabitat,Time,,,,,,
+40,Mesic,Time,,,,,,
+40,Mesic/Xeric,Time,,,,,,
+40,Xeric,Time,,,,,,
+40,Seed mass,Time,,,,,,

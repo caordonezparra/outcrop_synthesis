@@ -1,0 +1,13 @@
+Mods,post_mean,Lower,Upper,Significant,nSpecies,nObservations
+Overall effect,3.412,3.2153,3.6132,Yes,71,1988
+Growth form,,,,,,
+Herb,2.489,2.216,2.758,Yes,21,1038
+Shrub,4.3999,4.1112,4.6763,Yes,50,950
+Distribution,,,,,,
+Restricted,3.581,3.2258,3.9137,Yes,26,574
+Widespread,3.318,3.0747,3.5599,Yes,44,1406
+Microhabitat,,,,,,
+Mesic,5.282,4.906,5.701,Yes,21,710
+Mesic/Xeric,0.8435,0.5179,1.1361,Yes,6,408
+Xeric,3.4483,3.1591,3.7329,Yes,44,870
+Seed mass,-0.437,-0.6299,-0.2558,Yes,63,1748

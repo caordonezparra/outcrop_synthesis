@@ -1,0 +1,21 @@
+Temperature,Mods,Variable,post_mean,Lower,Upper,Significant,nSpecies,nObservations
+25/15,All,Percentage,-1.3837,-1.8518,-0.8698,Yes,9,80
+25/15,Growth form,Percentage,,,,,,
+25/15,Herb,Percentage,,,,,,
+25/15,Shrub,Percentage,,,,,,
+25/15,Seed mass,Percentage,-1.2591,-2.3367,-0.1383,Yes,6,54
+30/20,All,Percentage,-0.379,-0.8281,0.0595,No,9,84
+30/20,Growth form,Percentage,,,,,,
+30/20,Herb,Percentage,0.05701,-0.74642,0.90777,No,3,28
+30/20,Shrub,Percentage,-0.6168,-1.179,-0.0375,Yes,6,56
+30/20,Seed mass,Percentage,0.32175,-0.22914,0.86187,No,6,58
+25/15,All,Time,6.62,5.385,7.917,Yes,9,80
+25/15,Growth form,Time,,,,,,
+25/15,Herb,Time,,,,,,
+25/15,Shrub,Time,,,,,,
+25/15,Seed mass,Time,5.7316,3.1618,8.2398,Yes,6,54
+30/20,All,Time,1.234,0.524,1.956,Yes,9,84
+30/20,Growth form,Time,,,,,,
+30/20,Herb,Time,2.241,1.196,3.298,Yes,3,28
+30/20,Shrub,Time,0.7343,-0.2161,1.6789,No,6,45
+30/20,Seed mass,Time,1.003,0.149,1.862,Yes,6,45

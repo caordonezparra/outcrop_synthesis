@@ -20,7 +20,7 @@ library(treedataverse) # v. 0.0.1 a Bioconductor metapackage with different func
 
 ##### 1. Set working directory ####
 
-setwd(str_c(git_find(),"/Figures"))
+setwd(str_c(git_find(),"/Figures/Figure2"))
 
 #### 2. Load the dataset and the phylogeny ####
 

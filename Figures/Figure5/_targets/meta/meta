@@ -1,0 +1,28 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+alternate_temperature|stem|8755fa5bbdfd101a|cfd7d16e59b5a5a1|fd40505db8b2c25a|1169248273||t19846.5911548611s|1476f25704154386|928|rds|local|vector|||0||
+constant_temperature|stem|1529ca78b6abadd8|d47cbd5b2091e807|09f09bbba28cb0f6|1362838972||t19843.7471862269s|fba32d55c0cdb8bf|3054|rds|local|vector|||0||
+Figure_5|stem|029e013a00d974bf|3cb0f26d02a3c05b|722d313d006e111d|-1842834376||t19846.5933710648s|2307e0f91f7ab9d3|2014465|rds|local|vector|||0.047||
+Figure_5_tofile|stem|257370de541ba66d|c0984db7a6dbcdc7|d6ce44b5f7a5ff90|-821999261|Figure_5.svg|t19846.5933740741s|57bf0f3a9216df90|94204|file|local|vector|||0.252||
+Figure_5a|stem|a0114e3700aef2b5|ef9cd2faa1a3d953|4a9776ed13d95a17|1427320904||t19846.5379445602s|0f9e9c986ce3408f|1452995|rds|local|vector|||0.491|Removed 20 rows containing missing values or values outside the scale rangegeom_point.. Removed 20 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 6 rows containing missing values or values outside the scale rangegeom_point.. Removed 6 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 6 rows containing missing values or values outside the scale rangegeom_point.. Removed 6 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 6 rows containing missing values or values outside the scale rangegeom_point.. Removed 6 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 6 rows containing missing values or values outside the scale rangegeom_point.. Removed 6 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 15 rows containing missing values or values outside the scale rangegeom_point.. Removed 15 rows containing missing values or values outside the scale rangegeom_errorbarh.|
+Figure_5a_tofile|stem|c9afca718460876a|af71c73026fed459|2ba5997f90f12757|-1510937612|Figure_5a.svg|t19846.537946412s|9bccd853ce068227|74901|file|local|vector|||0.15||
+Figure_5b|stem|4f1e6182f0d04532|87f80e274472d1a5|8f7540ed5641503b|-69080608||t19846.5933597222s|9faa4d3f5d2c2e26|300690|rds|local|vector|||0.297|Removed 6 rows containing missing values or values outside the scale rangegeom_point.. Removed 6 rows containing missing values or values outside the scale rangegeom_errorbarh.. Removed 2 rows containing missing values or values outside the scale rangegeom_point.. Removed 2 rows containing missing values or values outside the scale rangegeom_errorbarh.|
+figure_panel_alternate|function|9558de854b36206a|||||||||||||||
+figure_panel_final|function|7f06cfbcde1e745d|||||||||||||||
+figure_panel_temperature|function|a02288f0e36915e5|||||||||||||||
+Figure5a_10|stem|0bde78e97b4e1c58|efa7eb52d6037c03|292ee1c9bff90bf6|-384444279||t19843.7471918982s|6702bb08383f5569|195543|rds|local|vector|||0.006||
+Figure5a_15|stem|6a2bf1bbe4e2b17b|db714f2db5464c1a|292ee1c9bff90bf6|1847385234||t19843.7471876157s|52276a5cfc57ab6e|196698|rds|local|vector|||0.044||
+Figure5a_20|stem|cdad823bd7a6a632|a0548a6dbf2517d9|292ee1c9bff90bf6|777638009||t19843.7471895833s|905fd8d075f215ee|196973|rds|local|vector|||0.006||
+Figure5a_30|stem|cf72f70a72d4f529|d71c99c34103d510|292ee1c9bff90bf6|543290625||t19843.7471928241s|202f492f8eac4137|196947|rds|local|vector|||0.007||
+Figure5a_35|stem|aaf40beccdc0bd85|4459d55a33520458|292ee1c9bff90bf6|1107177335||t19843.7471887731s|099bd07c9297e778|196772|rds|local|vector|||0.008||
+Figure5a_40|stem|3cb71730567d0b19|b180adfcb038ea94|292ee1c9bff90bf6|-763378497||t19843.747191088s|08f9b6f6ea5ac6b3|196026|rds|local|vector|||0.006||
+Figure5b_25|stem|706bdf9e51a1b0e2|662e0173548461d7|e5ea7136ca264aaf|946820119||t19846.5933534722s|e1bfac482756cf48|192778|rds|local|vector|||0.04||
+Figure5b_30|stem|e418ffa45ee03311|3ef2fe9d40fe619c|e5ea7136ca264aaf|1771911561||t19846.5933545139s|d80ede897f7ed84c|193123|rds|local|vector|||0.006||
+forest_plot_alternate|function|27428d8982caa446|||||||||||||||
+forest_plot_temperature|function|b32cd2a495af4231|||||||||||||||
+mydat|stem|583d24fc49aeb721|cdf3e0ece9af030a|5b79f74b0b7f881f|-1243927422||t19843.7471861111s|0d9f79b43f0bbab7|3007|rds|local|vector|||0.152||
+mydat2|stem|e262098b640a11cf|beda0db0c58e3ca7|b770c127ab71f04f|-1574277192||t19846.5911547454s|b80b976fa01d0213|874|rds|local|vector|||0.161||
+prep_alternate|function|989b2da653140415|||||||||||||||
+prep_temperature|function|dd867478e2cf06d9|||||||||||||||
+raw_myfile|stem|9f5715bc98395aae|87b7d141977e0519|ef46db3751d8e999|660181323|/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/Figures/Figure5/figure_meta_constant.csv|t19843.7467722222s|76148f91da552828|6228|file|local|vector|||0.038||
+raw_myfile2|stem|0b169e77fa004a92|cad744f01404c274|ef46db3751d8e999|-967232316|/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/Figures/Figure5/figure_meta_alternate.csv|t19846.5906390046s|b45634dea951f9a1|939|file|local|vector|||0.066||
+scale_color_temperature|object|6d8138f7f59b8e26|||||||||||||||

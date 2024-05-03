@@ -1,0 +1,15 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+create_barplot|function|ec07a624130e7416|||||||||||||||
+data|stem|a47d004bea670703|43fae4011a0626f4|ef46db3751d8e999|33550471||t19786.7780924769s|d3f02792370ba5c4|1745|rds|local|vector|||0.005||
+Figure_1E|stem|8d0f16fb992ba638|0548019682ae598c|4129894b65f195a8|-1407193941||t19808.9130166667s|367071f6c20c56d4|550589|rds|local|vector|||0.211||
+Figure_1E_tofile|stem|a4bfbc2c8ff6f940|c043a46fdb2d3233|b39a2c26deeca739|703063683|Figure_1E.svg|t19843.6141260417s|567b22b6620a4e87|9357|file|local|vector|||0.179||
+Figure_1E1|stem|909a6d11da9011e8|7c33ed1f4d5e4296|516ec47ee3354bc9|1367998273||t19808.9118283565s|e630894a026b1d0b|174102|rds|local|vector|||0.029||
+Figure_1E2|stem|cb1abfe7c27d31b6|348ae898ea22e763|516ec47ee3354bc9|334411278||t19808.9118290509s|cec8146ad26fadc1|174105|rds|local|vector|||0.005||
+figure_panel|function|eb30ca6e55892396|||||||||||||||
+model|stem|d111d6e57fea39a1|ae83bc723fe2997c|4d37c857cd3e6f9e|808688450||t19786.7780945602s|4bab66ba4bee4440|108|rds|local|vector|||0.002||
+mydat|stem|60eb3b4178c499f8|cdf3e0ece9af030a|4bf44c80abc1b119|-1243927422||t19815.9116270833s|355e02d86e0a1d2e|366|rds|local|vector|||0.1||
+myfile|stem|25ee38af7e49041a|67e13901ae762391|ef46db3751d8e999|2104650912|/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/vegetation.csv|t19431.743303125s|bdb532178c146fbe|104|file|local|vector|||0.063||
+prep_veg|function|569b98ff3bff0db2|||||||||||||||
+raw_myfile|stem|25ee38af7e49041a|baa84db46a685626|ef46db3751d8e999|660181323|/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/vegetation.csv|t19431.743303125s|bdb532178c146fbe|104|file|local|vector|||0.013||
+vegetation|stem|bdc3606fba74a93a|d10d82ee3f4ad7b5|47811b73b5e49679|-1751863285||t19808.9118271991s|7c08b6911a348b50|283|rds|local|vector|||0.008||
+vegetationColors|object|63b46d59d50ad2bc|||||||||||||||

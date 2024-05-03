@@ -11,7 +11,7 @@ library(targets) # v. 1.5.1 for creating and running pipelines
 
 #### 1. Set the working directory ####
 
-setwd(str_c(git_find(),"/Figures"))
+setwd(str_c(git_find(),"/Figures/Figure1"))
 
 #### 2. Making the barplots ####
 
