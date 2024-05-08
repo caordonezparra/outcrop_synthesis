@@ -11,7 +11,7 @@ forest_plot_alternate <- function(data, temperature) {
     geom_errorbarh(height=.1) +
     theme_bw(base_size = 8) +
     scale_colour_manual(values = scale_color_temperature) +
-    xlim(-5, 10) +
+    xlim(-7, 10) +
     theme(axis.text.y = if (temperature == "30/20") element_blank() else element_text(),
           axis.ticks.y = if (temperature == "30/20") element_blank() else element_line(),
           axis.title.x = element_text(face = "bold"),

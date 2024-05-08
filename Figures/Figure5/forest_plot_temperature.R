@@ -11,7 +11,7 @@ forest_plot_temperature <- function(data, temperature) {
     geom_errorbarh(height=.1) +
     theme_bw(base_size = 8) +
     scale_colour_manual(values = scale_color_temperature) +
-    xlim(-8, 9) +
+    xlim(-12, 9) +
     theme(axis.text.y = if (temperature %in% c(15, 30, 40)) element_blank() else element_text(),
           axis.ticks.y = if (temperature %in% c(15, 30, 40)) element_blank() else element_line(),
           axis.text.x = if (temperature %in% c(10, 15, 20, 30)) element_blank() else element_text(),
