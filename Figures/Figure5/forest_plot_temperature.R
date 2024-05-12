@@ -21,7 +21,9 @@ forest_plot_temperature <- function(data, temperature) {
           panel.grid.minor = element_blank(),
           axis.line = element_blank(), 
           legend.position = "none", 
-          axis.title.y = element_blank()) +
+          axis.title.y = element_blank(),
+          axis.title.x = element_text(face = "bold"),
+          axis.text = element_text(color = "black")) +
     labs(title = paste({{temperature}}, "°C"), x = "Effect size") +
     facet_wrap(~Variable)
 }

@@ -5,7 +5,7 @@
 
 #### 0. Load the packages (assuming they are already installed) ####
 
-library(targets) # v. 1.5.1 for creating and running pipelines
+library(stringr)
 library(gert) # v. 2.0.1 for managing Git repositories
 library(readr) # v. 2.1.5 for loading datasets.
 library(dplyr) # v. 1.1.4 for data frame manipulation.
@@ -50,11 +50,12 @@ figure4 <- ggplot(data = figure_meta_light, aes(y = Mods,
   geom_point(size = 2.5, pch = 15) +
   geom_errorbarh(height=.1) +
   theme_bw(base_size = 12) +
-  scale_x_continuous(limits = c(-2, 6)) +
+  scale_x_continuous(limits = c(-2.5, 6)) +
   scale_colour_manual(values = c("#7F7F7F", "#FCC38C")) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         axis.line = element_blank(), legend.position = "none", 
-        axis.title.y = element_blank()) +
+        axis.title.y = element_blank(), axis.title.x = element_text(face = "bold"),
+        axis.text = element_text(color = "black")) +
   labs(title = "Light", x = "Effect size")
 
 ggsave(filename = "Figure4.svg", device = "svg", height = 8.4, width = 8.4, 

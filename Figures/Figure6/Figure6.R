@@ -62,12 +62,13 @@ figure6a <- ggplot(data = figure_meta_fire_all, aes(y = Mods,
   geom_errorbarh(height= 0, position = position_dodge(width = .6)) +
   theme_bw(base_size = 8) +
   scale_colour_manual(values = scale_colors_fire) +
-  xlim(-6, 4) +
+  scale_x_continuous(limits = c(-8, 4), breaks = seq(-8, 4, 2)) +
   theme(panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
         axis.line = element_blank(), legend.position = "none", 
         axis.title.y = element_blank(),
-        axis.title.x = element_text(face = "bold")) +
+        axis.title.x = element_text(face = "bold"),
+        axis.text = element_text(color = "black")) +
   labs(title = "Fire-related cues", x = "Effect size") +
   facet_wrap(~Variable)
 
@@ -107,11 +108,12 @@ figure6b <- ggplot(data = figure_meta_fire_shock, aes(y = Mods,
   geom_errorbarh(height= 0, position = position_dodge(width = .6)) +
   theme_bw(base_size = 8) +
   scale_colour_manual(values = scale_colors_fire) +
-  xlim(-6, 4) +
+  scale_x_continuous(limits = c(-8, 4), breaks = seq(-8, 4, 2)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         axis.line = element_blank(), legend.position = "none", 
         axis.title.y = element_blank(),
-        axis.title.x = element_text(face = "bold")) +
+        axis.title.x = element_text(face = "bold"),
+        axis.text = element_text(color = "black")) +
   labs(title = "Heat shock treatments", x = "Effect size") +
   facet_wrap(~Variable)
 
@@ -156,11 +158,12 @@ figure6c <- ggplot(data = figure_meta_fire_heat, aes(y = Mods,
   geom_errorbarh(height= 0, position = position_dodge(width = .6)) +
   theme_bw(base_size = 8) +
   scale_colour_manual(values = scale_colors_fire) +
-  xlim(-6, 4) +
+  scale_x_continuous(limits = c(-8, 4), breaks = seq(-8, 4, 2)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         axis.line = element_blank(), legend.position = "none", 
         axis.title.y = element_blank(),
-        axis.title.x = element_text(face = "bold")) +
+        axis.title.x = element_text(face = "bold"),
+        axis.text = element_text(color = "black")) +
   labs(title = "Heat", x = "Effect size") +
   facet_wrap(~Variable)
 
@@ -203,17 +206,18 @@ figure6d <- ggplot(data = figure_meta_fire_smoke, aes(y = Mods,
   geom_errorbarh(height= 0, position = position_dodge(width = .6)) +
   theme_bw(base_size = 8) +
   scale_colour_manual(values = scale_colors_fire) +
-  xlim(-6, 4) +
+  scale_x_continuous(limits = c(-8, 4), breaks = seq(-8, 4, 2)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         axis.line = element_blank(), legend.position = "none", 
         axis.title.y = element_blank(),
-        axis.title.x = element_text(face = "bold")) +
+        axis.title.x = element_text(face = "bold"),
+        axis.text = element_text(color = "black")) +
   labs(title = "Smoke", x = "Effect size") +
   facet_wrap(~Variable)
 
 figure6d
 
-figure6 <- plot_grid(figure6a, figure6b, figure6c, figure6d, nrow = 2, ncol = 2,
+figure6 <- plot_grid(figure6a, figure6b, figure6c, figure6d, nrow = 2, ncol = 2, align = "hv",
                      labels = "AUTO")
 
 figure6
