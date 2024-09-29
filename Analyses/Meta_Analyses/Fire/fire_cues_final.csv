@@ -1,0 +1,558 @@
+ID,Species_reported,Species_accepted,Treatment_type,Treatment,Treatment_application,HeatShock_Treatment,Smoke,GermSeeds,nSeeds,Growth_form,Distribution,Microhabitat,Dry_mass,Dormancy,Species_acceptedLCVP
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,0,Control,NA,9,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,0,Control,NA,5,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,0,Control,NA,2,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,0,Control,NA,2,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,1,80*2,NA,2,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,1,80*2,NA,2,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,1,80*2,NA,4,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon bicornis,Andropogon bicornis,Single,Heat,1,80*2,NA,6,25,Herb,Restricted,Mesic/Xeric,0.1396,D,Andropogon_bicornis
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,0,Control,NA,3,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,0,Control,NA,13,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,0,Control,NA,7,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,0,Control,NA,13,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,1,80*2,NA,19,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,1,80*2,NA,16,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,1,80*2,NA,10,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+20,Andropogon leucostachyus,Andropogon leucostachyus,Single,Heat,1,80*2,NA,6,25,Herb,Widespread,Xeric,1.5,D,Andropogon_leucostachyus
+37,Aristida torta,Aristida torta,Single,Smoke,0,NA,Control,2,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,0,NA,Control,1,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,0,NA,Control,3,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,0,NA,Control,1,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,0,NA,Control,2,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,1,NA,Smoke water,4,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,1,NA,Smoke water,7,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,1,NA,Smoke water,7,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,1,NA,Smoke water,2,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+37,Aristida torta,Aristida torta,Single,Smoke,1,NA,Smoke water,1,20,Herb,Widespread,Xeric,2.08,D,Aristida_torta
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,0,Control,NA,18,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,0,Control,NA,8,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,0,Control,NA,5,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,0,Control,NA,7,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,1,80*2,NA,7,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,1,80*2,NA,10,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,1,80*2,NA,9,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+20,Cenchrus brownii,Cenchrus brownii,Single,Heat,1,80*2,NA,11,25,Herb,Widespread,Mesic/Xeric,3.78,D,Cenchrus_brownii
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,0,Control,Control,9,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,0,Control,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,0,Control,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,0,Control,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,0,Control,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,1,100*5,NA,15,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,1,100*5,NA,6,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,1,100*5,NA,6,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,1,100*5,NA,5,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Heat,1,100*5,NA,5,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,0,NA,Control,9,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,0,NA,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,0,NA,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,0,NA,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,0,NA,Control,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,1,NA,Smoke water,7,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,1,NA,Smoke water,4,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,1,NA,Smoke water,2,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,1,NA,Smoke water,8,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+37,Lessingianthus linearifolius,Lessingianthus linearifolius,Single,Smoke,1,NA,Smoke water,4,20,Shrub,Widespread,Xeric,NA,ND,Lessingianthus_linearifolius
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,0,Control,NA,2,14,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,0,Control,NA,1,14,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,0,Control,NA,1,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,0,Control,NA,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,0,Control,NA,2,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,100*1,NA,1,16,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,100*1,NA,0,17,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,100*1,NA,4,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,100*1,NA,7,16,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,100*1,NA,4,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,200*1,NA,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,200*1,NA,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,200*1,NA,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,200*1,NA,0,13,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Heat,1,200*1,NA,1,29,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,0,NA,Control,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,0,NA,Control,3,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,0,NA,Control,5,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,0,NA,Control,2,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,0,NA,Control,2,12,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,1,NA,Smoke water,2,14,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,1,NA,Smoke water,4,16,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,1,NA,Smoke water,2,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,1,NA,Smoke water,0,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+93,Mimosa foliolosa,Mimosa foliolosa,Single,Smoke,1,NA,Smoke water,3,15,Shrub,Widespread,Xeric,7.76,D,Mimosa_foliolosa
+20,Setaria parviflora,Setaria parviflora,Single,Heat,0,Control,NA,4,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,0,Control,NA,3,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,0,Control,NA,2,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,0,Control,NA,2,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,1,80*2,NA,5,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,1,80*2,NA,5,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,1,80*2,NA,2,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+20,Setaria parviflora,Setaria parviflora,Single,Heat,1,80*2,NA,2,25,Herb,Widespread,Mesic/Xeric,1.58,D,Setaria_parviflora
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,2,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,1,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,1,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,3,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,4,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,2,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,1,21,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,1,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,1,18,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,2,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,18,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,3,19,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,4,21,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,3,19,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,0,19,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,3,17,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,3,19,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,4,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,2,21,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,4,20,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+103,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,9,18,Shrub,Widespread,Xeric,0.002825,ND,Tibouchina_cardinalis
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,24,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,25,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,21,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,22,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,4,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,3,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,1,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,14,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,3,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,80*5,NA,16,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,80*5,NA,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,80*5,NA,22,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,80*5,NA,22,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,80*5,NA,24,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,Control,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,18,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,19,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,19,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*5,NA,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,NA,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,NA,15,19,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,NA,16,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,NA,14,19,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,0,Control,NA,16,19,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*1,NA,13,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*1,NA,21,29,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*1,NA,16,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*1,NA,17,19,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*1,NA,16,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*3,NA,15,17,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*3,NA,15,16,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*3,NA,15,18,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*3,NA,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,100*3,NA,20,22,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,200*1,NA,2,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,200*1,NA,3,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,200*1,NA,18,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Heat,1,200*1,NA,0,18,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,24,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,25,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,21,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,22,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,25,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,20,22,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,20,26,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,17,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,18,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,19,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,12,14,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,23,24,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,23,24,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,18,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,0,NA,Control,18,21,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,19,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,21,22,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,16,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,17,22,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+92,Vellozia variabilis,Vellozia variabilis,Single,Smoke,1,NA,Smoke water,16,20,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,0,Control*Control,Control,24,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,0,Control*Control,Control,25,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,0,Control*Control,Control,21,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,0,Control*Control,Control,18,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,0,Control*Control,Control,22,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,1,100*5,Smoke water,4,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,1,100*5,Smoke water,4,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,1,100*5,Smoke water,14,24,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,1,100*5,Smoke water,2,25,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+19,Vellozia variabilis,Vellozia variabilis,Combined,Combined,1,100*5,Smoke water,4,24,Shrub,Widespread,Xeric,0.22,ND,Vellozia_alutacea
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,0,Control,Control,18,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,0,Control,Control,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,0,Control,Control,18,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,0,Control,Control,14,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,0,Control,Control,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,1,100*5,NA,11,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,1,100*5,NA,14,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,1,100*5,NA,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,1,100*5,NA,16,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Heat,1,100*5,NA,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,0,NA,Control,18,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,0,NA,Control,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,0,NA,Control,18,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,0,NA,Control,14,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,0,NA,Control,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,1,NA,Smoke water,16,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,1,NA,Smoke water,14,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,1,NA,Smoke water,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,1,NA,Smoke water,17,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+37,Vellozia caruncularis,Vellozia caruncularis,Single,Smoke,1,NA,Smoke water,18,20,Herb,Restricted,Xeric,0.155,ND,Vellozia_caruncularis
+92,Vellozia compacta,Vellozia compacta,Single,Heat,0,Control,NA,18,20,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,0,Control,NA,24,28,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,0,Control,NA,17,21,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,0,Control,NA,16,20,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,0,Control,NA,19,23,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*1,NA,21,23,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*1,NA,21,26,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*1,NA,16,18,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*1,NA,18,25,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*1,NA,21,26,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*3,NA,16,20,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*3,NA,16,23,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*3,NA,18,26,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*3,NA,18,30,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,100*3,NA,17,19,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,200*1,NA,15,24,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,200*1,NA,1,21,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,200*1,NA,0,24,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,200*1,NA,4,23,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Heat,1,200*1,NA,4,18,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,0,NA,Control,24,25,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,0,NA,Control,20,20,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,0,NA,Control,23,26,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,0,NA,Control,21,24,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,0,NA,Control,21,22,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,1,NA,Smoke water,25,25,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,1,NA,Smoke water,19,22,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,1,NA,Smoke water,23,25,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,1,NA,Smoke water,20,24,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+92,Vellozia compacta,Vellozia compacta,Single,Smoke,1,NA,Smoke water,19,23,Shrub,Restricted,Xeric,0.2,ND,Vellozia_compacta
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,1,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,1,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,1,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,2,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,0,17,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,2,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,100*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,1,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,Control,10,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,Control,10,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Heat,0,Control,Control,7,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,0,Control,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,0,Control,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,0,Control,Control,33,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,0,Control,Control,28,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,0,Control,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,1,100*5,NA,34,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,1,100*5,NA,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,1,100*5,NA,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,1,100*5,NA,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Heat,1,100*5,NA,32,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,0,NA,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,0,NA,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,0,NA,Control,33,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,0,NA,Control,28,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,0,NA,Control,35,40,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,1,NA,Smoke water,15,20,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,1,NA,Smoke water,17,20,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,1,NA,Smoke water,18,20,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,1,NA,Smoke water,18,20,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+37,Vellozia epidendroides,Vellozia epidendroides,Single,Smoke,1,NA,Smoke water,17,20,Shrub,Restricted,Mesic/Xeric,0.58,ND,Vellozia_epidendroides
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,0,Control,NA,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,0,Control,NA,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,0,Control,NA,20,21,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,0,Control,NA,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,0,Control,NA,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,100*1,NA,18,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,100*1,NA,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,100*1,NA,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,100*1,NA,15,16,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,100*1,NA,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,200*1,NA,14,19,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,200*1,NA,15,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,200*1,NA,16,19,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,200*1,NA,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Heat,1,200*1,NA,13,13,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,0,NA,Control,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,0,NA,Control,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,0,NA,Control,18,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,0,NA,Control,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,0,NA,Control,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,1,NA,Smoke water,17,19,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,1,NA,Smoke water,19,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,1,NA,Smoke water,21,21,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia glochidea,Vellozia glochidea,Single,Smoke,1,NA,Smoke water,18,20,Shrub,Widespread,Xeric,1.24,ND,Vellozia_glochidea
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,0,Control,NA,5,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,0,Control,NA,12,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,0,Control,NA,8,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,0,Control,NA,15,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,0,Control,NA,2,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,100*1,NA,6,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,100*1,NA,8,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,100*1,NA,7,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,100*1,NA,5,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,100*1,NA,8,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,200*1,NA,2,19,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,200*1,NA,2,21,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,200*1,NA,3,19,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,200*1,NA,3,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Heat,1,200*1,NA,0,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,0,NA,Control,8,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,0,NA,Control,11,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,0,NA,Control,9,19,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,0,NA,Control,8,23,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,0,NA,Control,11,21,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,1,NA,Smoke water,12,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,1,NA,Smoke water,9,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,1,NA,Smoke water,12,19,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,1,NA,Smoke water,12,20,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+92,Vellozia goiasensis,Vellozia goiasensis,Single,Smoke,1,NA,Smoke water,11,18,Shrub,Widespread,Xeric,0.62,ND,Vellozia_goiasensis
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,0,Control,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,0,Control,Control,21,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,0,Control,Control,17,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,0,Control,Control,26,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,0,Control,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,100*5,NA,21,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,100*5,NA,23,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,100*5,NA,14,23,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,100*5,NA,23,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,100*5,NA,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,80*5,NA,20,23,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,80*5,NA,25,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,80*5,NA,23,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,80*5,NA,22,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Heat,1,80*5,NA,23,23,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,0,NA,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,0,NA,Control,21,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,0,NA,Control,17,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,0,NA,Control,26,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,0,NA,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,1,NA,Smoke water,20,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,1,NA,Smoke water,16,21,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,1,NA,Smoke water,24,24,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,1,NA,Smoke water,15,23,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Single,Smoke,1,NA,Smoke water,24,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,0,Control*Control,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,0,Control*Control,Control,21,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,0,Control*Control,Control,17,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,0,Control*Control,Control,26,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,0,Control*Control,Control,22,26,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,1,100*5,Smoke water,25,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,1,100*5,Smoke water,20,24,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,1,100*5,Smoke water,21,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,1,100*5,Smoke water,14,21,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia nanuzae,Vellozia nanuzae,Combined,Combined,1,100*5,Smoke water,21,25,Shrub,Restricted,Xeric,0.58,ND,Vellozia_nanuzae
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,18,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,21,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,19,27,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,21,26,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,25,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,0,26,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,80*5,NA,23,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,80*5,NA,19,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,80*5,NA,24,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,80*5,NA,24,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,80*5,NA,20,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,35,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,37,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,39,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,38,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,0,Control,Control,33,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,38,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,34,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,31,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,34,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Heat,1,100*5,NA,35,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,18,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,21,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,19,27,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,21,26,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,25,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,20,24,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,22,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,19,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,22,24,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,25,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,35,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,37,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,39,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,38,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,0,NA,Control,33,40,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,16,20,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,18,20,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+37,Vellozia resinosa,Vellozia resinosa,Single,Smoke,1,NA,Smoke water,20,20,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,0,Control*Control,Control,18,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,0,Control*Control,Control,21,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,0,Control*Control,Control,19,27,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,0,Control*Control,Control,21,26,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,0,Control*Control,Control,25,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,1,100*5,Smoke water,3,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,1,100*5,Smoke water,1,24,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,1,100*5,Smoke water,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,1,100*5,Smoke water,0,25,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+19,Vellozia resinosa,Vellozia resinosa,Combined,Combined,1,100*5,Smoke water,0,26,Shrub,Restricted,Xeric,0.56,ND,Vellozia_resinosa
+92,Vellozia squamata,Vellozia squamata,Single,Heat,0,Control,NA,8,19,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,0,Control,NA,8,13,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,0,Control,NA,15,18,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,0,Control,NA,8,15,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,0,Control,NA,7,15,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,100*1,NA,10,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,100*1,NA,14,19,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,100*1,NA,10,16,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,100*1,NA,5,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,100*1,NA,4,14,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,200*1,NA,7,17,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,200*1,NA,3,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,200*1,NA,7,19,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,200*1,NA,14,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Heat,1,200*1,NA,14,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,0,NA,Control,11,22,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,0,NA,Control,8,10,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,0,NA,Control,8,10,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,0,NA,Control,13,21,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,0,NA,Control,13,17,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,1,NA,Smoke water,7,19,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,1,NA,Smoke water,12,20,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,1,NA,Smoke water,12,18,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,1,NA,Smoke water,12,15,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+92,Vellozia squamata,Vellozia squamata,Single,Smoke,1,NA,Smoke water,6,6,Shrub,Widespread,Mesic/Xeric,0.62,ND,Vellozia_squamata
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,0,Control,Control,6,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,0,Control,Control,9,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,0,Control,Control,23,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,0,Control,Control,6,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,0,Control,Control,14,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,1,100*5,NA,4,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,1,100*5,NA,2,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,1,100*5,NA,6,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,1,100*5,NA,8,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Heat,1,100*5,NA,7,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,0,NA,Control,6,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,0,NA,Control,9,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,0,NA,Control,23,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,0,NA,Control,6,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,0,NA,Control,14,40,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,7,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,7,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,7,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,5,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,3,22,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,1,NA,Smoke water,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,10,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Single,Smoke,0,NA,Control,7,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,1,NA,Smoke water,12,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,1,NA,Smoke water,9,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,1,NA,Smoke water,11,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,1,NA,Smoke water,5,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+37,Xyris obtusiuscula,Xyris obtusiuscula,Single,Smoke,1,NA,Smoke water,4,20,Herb,Restricted,Mesic/Xeric,0.042,D,Xyris_obtusiuscula
+19,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,20,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,16,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,25,25,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,30,32,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,30,33,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,7,26,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,13,22,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,8,19,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,12,24,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,22,25,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,80*5,NA,27,38,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,80*5,NA,18,18,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,80*5,NA,15,23,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,80*5,NA,34,37,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Heat,1,80*5,NA,16,19,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,30,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,36,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,35,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,32,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,0,Control,Control,26,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,23,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,32,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,34,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,24,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Heat,1,100*5,NA,29,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,20,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,16,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,25,25,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,30,32,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,30,33,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,21,21,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,16,16,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,19,19,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,18,18,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,19,19,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,30,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,36,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,35,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,32,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,0,NA,Control,26,40,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,15,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,15,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,18,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,14,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+37,Xyris pilosa,Xyris pilosa,Single,Smoke,1,NA,Smoke water,10,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,0,Control*Control,Control,20,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,0,Control*Control,Control,16,20,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,0,Control*Control,Control,25,25,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,0,Control*Control,Control,30,32,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,0,Control*Control,Control,30,33,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,1,100*5,Smoke water,32,32,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,1,100*5,Smoke water,19,19,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,1,100*5,Smoke water,32,32,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,1,100*5,Smoke water,21,21,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+19,Xyris pilosa,Xyris pilosa,Combined,Combined,1,100*5,Smoke water,25,25,Herb,Restricted,Mesic,0.042,ND,Xyris_pilosa
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,Control*Control,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,Control*Control,Control,10,19,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,Control*Control,Control,10,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,Control*Control,Control,10,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,Control*Control,Control,7,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,100*1,Smoke water,4,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,100*1,Smoke water,3,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,100*1,Smoke water,2,23,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,100*1,Smoke water,5,17,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,100*1,Smoke water,1,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,200*1,Smoke water,0,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,200*1,Smoke water,4,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,200*1,Smoke water,0,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,200*1,Smoke water,1,21,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis
+93,Pleroma cardinale,Pleroma cardinale,Combined,Combined,1,200*1,Smoke water,2,20,Shrub,Widespread,Xeric,0.05,ND,Tibouchina_cardinalis

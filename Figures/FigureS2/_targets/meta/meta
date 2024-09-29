@@ -1,0 +1,32 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+color_dormancy|object|dcb3a69876f0bd2c|||||||||||||||
+color_season|object|7408003a9ac474ac|||||||||||||||
+color_syndrome|object|380bb8d341e76eaa|||||||||||||||
+figure_dormancy|function|58a080089d650bfa|||||||||||||||
+Figure_S2_tofile|stem|08147471b0ba430d|3deae7ec208a0e95|923b1e2f417067d4|241861455|FigureS2.svg|t19937.9333238426s|f482a80d62f403ac|198861|file|local|vector|||0.148||
+figure_season|function|b2872a732f18bf22|||||||||||||||
+figure_syndrome|function|765af2a8a343da89|||||||||||||||
+FigureS2|stem|7c8b2489a9e4d81b|a4a65a0c3b553e3c|576e2b0bfcfb9208|1448185553||t19937.9333221065s|a5c29b9ea89e2963|1679133|rds|local|vector|||0.033||
+figureS2_panel|function|030e1abfb175baf5|||||||||||||||
+figureS2_panel_final|function|cdc126e8a3503a00|||||||||||||||
+figureS2_panel1|function|e89f1204ec74ebf1|||||||||||||||
+figureS2_panel2|function|d98eb4152a4a8e69|||||||||||||||
+FigureS2A|stem|cdf772081ee69254|ab247ed225493fb9|42b3192ede15da87|-1154343610||t19937.9269804398s|464668fae48c948a|1037103|rds|local|vector|||0.26|Removed 376 rows containing missing values or values outside the scale rangegeom_point.. Removed 656 rows containing missing values or values outside the scale rangegeom_point.. Removed 1 row containing missing values or values outside the scale rangegeom_segment.. Removed 607 rows containing missing values or values outside the scale rangegeom_point.. Removed 542 rows containing missing values or values outside the scale rangegeom_point.|
+FigureS2A_1|stem|8f3dd249db8d9ea4|f3ab2ebaea63a703|8d3ba82c96205eed|1418379865||t19937.9269717593s|db334ac3b1a4bc6b|266726|rds|local|vector|||0.051||
+FigureS2A_2|stem|d0630e87ed6af535|d8e24e8a84fa894b|8d3ba82c96205eed|234600586||t19937.9269726852s|f2a7e458a38fc23a|256009|rds|local|vector|||0.014||
+FigureS2A_3|stem|4d5b75e1e517f3a2|5540673c27519f2d|8d3ba82c96205eed|1416515973||t19937.9269738426s|9ba16999f733f10a|256675|rds|local|vector|||0.012||
+FigureS2A_4|stem|dc1e4952b0ff6a94|a73657a3a8149e57|8d3ba82c96205eed|-522569751||t19937.9269746528s|64b2342ae318235c|256974|rds|local|vector|||0.012||
+FigureS2B|stem|fe6310b9fc491b3a|5b81c07d004eebe2|cb6427fc7c04134d|-548654220||t19937.9333153935s|d12566d7c596555b|362922|rds|local|vector|||0.141||
+FigureS2B_1|stem|4274b15daf7d8ffc|0cc020dd16a9d339|73774bd2960eadb6|-1454162949||t19937.9333096065s|be4b25792b77d0b1|187540|rds|local|vector|||0.048||
+FigureS2B_2|stem|3e9adb4279860bc8|90ae6e1e9d968452|05f9e22c5e7d202a|839070420||t19937.9333107639s|7a06b882d657eef6|187564|rds|local|vector|||0.017||
+FigureS2B_3|stem|d5cf69276c5e9d33|b1ee5e22a1260b72|b4f594eecdaf3b70|-1431703756||t19937.9333122685s|f147ff71922641c4|187812|rds|local|vector|||0.062||
+FigureS2C|stem|9f523ffb4e6356fc|33cce43e44de0bb9|0cc312ae35a6dc5e|1678861319||t19937.5148717593s|f49c46d6b86d2a9a|256650|rds|local|vector|||0.012||
+FigureS2D|stem|4ce6c97f3e51b7cf|739f1c5ec2e18c7c|0cc312ae35a6dc5e|-1773403843||t19937.5148726852s|6d899bd9a37c425f|256953|rds|local|vector|||0.012||
+joined_datasets|function|d0bd138b53b3ab27|||||||||||||||
+mydat|stem|c7c63c036387cb29|cdf3e0ece9af030a|1e85d1b0fce151e8|-1243927422||t19937.4238876157s|ebaca29a97765d31|16478|rds|local|vector|||0.121||
+process_and_plot|function|992febb7ad1c771b|||||||||||||||
+process_and_plot1|function|2e9b2ef9078c1075|||||||||||||||
+raw_myfile|stem|b51a1a468fa73fba|670ac2f814bf568c|ef46db3751d8e999|660181323|/Volumes/Apollo M100/2. Doutorado/Projects/outcrop_synthesis/Preprocessing/traits_joined.csv|t19814.8738918981s|14adadc89f0aa1e8|76667|file|local|vector|||0.012||
+scale_color_families|object|7454bf76ddfb831c|||||||||||||||
+selected_families|object|646e3deccd4474b8|||||||||||||||
+traits_all|stem|9a4f21489efc0b87|80b4bb46d4269fcf|575a502f6d9b44d4|-178716205||t19937.4238878472s|8dce1b6ee4b6fb26|18849|rds|local|vector|||0.007||

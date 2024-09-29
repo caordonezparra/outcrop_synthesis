@@ -1,14 +1,14 @@
 Temperature,Mods,Variable,post_mean,Lower,Upper,Significant,nSpecies,nObservations
-25/15,All,Percentage,-1.3837,-1.8518,-0.8698,Yes,9,80
-25/15,Growth form,Percentage,,,,,,
-25/15,Herb,Percentage,,,,,,
-25/15,Shrub,Percentage,,,,,,
-25/15,Seed mass,Percentage,-1.2591,-2.3367,-0.1383,Yes,6,54
-30/20,All,Percentage,-0.379,-0.8281,0.0595,No,9,84
-30/20,Growth form,Percentage,,,,,,
-30/20,Herb,Percentage,0.05701,-0.74642,0.90777,No,3,28
-30/20,Shrub,Percentage,-0.6168,-1.179,-0.0375,Yes,6,56
-30/20,Seed mass,Percentage,0.32175,-0.22914,0.86187,No,6,58
+25/15,All,Proportion,-1.3837,-1.8518,-0.8698,Yes,9,80
+25/15,Growth form,Proportion,,,,,,
+25/15,Herb,Proportion,,,,,,
+25/15,Shrub,Proportion,,,,,,
+25/15,Seed mass,Proportion,-1.2591,-2.3367,-0.1383,Yes,6,54
+30/20,All,Proportion,-0.379,-0.8281,0.0595,No,9,84
+30/20,Growth form,Proportion,,,,,,
+30/20,Herb,Proportion,0.05701,-0.74642,0.90777,No,3,28
+30/20,Shrub,Proportion,-0.6168,-1.179,-0.0375,Yes,6,56
+30/20,Seed mass,Proportion,0.32175,-0.22914,0.86187,No,6,58
 25/15,All,Time,6.62,5.385,7.917,Yes,9,80
 25/15,Growth form,Time,,,,,,
 25/15,Herb,Time,,,,,,

@@ -6,6 +6,7 @@ library(targets) # v. 1.5.1 for creating and running pipelines
 library(gert) # v. 2.0.1 for managing Git repositories
 library(readr) # v. 2.1.5 for loading datasets.
 library(dplyr) # v. 1.1.4 for data frame manipulation.
+library(plotrix) # v. 3.8-4 for estimating standard error.
 library(ggplot2) # v. 3.4.4 for creating different visualizations
 library(cowplot) # v. 1.1.3 for creating plot grids.
 library(svglite) # v. 2.1.3 for creating '.svg' files.

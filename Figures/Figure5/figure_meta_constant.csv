@@ -1,76 +1,76 @@
 Temperature,Mods,Variable,post_mean,Lower,Upper,Significant,nSpecies,nObservations
-10,All,Percentage,-4.295,-4.96,-3.613,Yes,8,88
-10,Growth form,Percentage,,,,,,
-10,Herb,Percentage,,,,,,
-10,Shrub,Percentage,,,,,,
-10,Distribution,Percentage,,,,,,
-10,Restricted,Percentage,-2.142,-3.194,-1.145,Yes,3,28
-10,Widespread,Percentage,-5.5047,-6.3933,-4.6912,Yes,5,60
-10,Microhabitat,Percentage,,,,,,
-10,Mesic,Percentage,,,,,,
-10,Mesic/Xeric,Percentage,,,,,,
-10,Xeric,Percentage,,,,,,
-10,Seed mass,Percentage,1.24186,0.63079,1.84254,Yes,8,88
-15,All,Percentage,-1.919,-2.176,-1.663,Yes,46,468
-15,Growth form,Percentage,,,,,,
-15,Herb,Percentage,-1.1193,-1.4746,-0.7862,Yes,16,220
-15,Shrub,Percentage,-2.661,-3.045,-2.261,Yes,30,248
-15,Distribution,Percentage,,,,,,
-15,Restricted,Percentage,-1.808,-2.267,-1.363,Yes,30,248
-15,Widespread,Percentage,-1.975,-2.313,-1.667,Yes,32,336
-15,Microhabitat,Percentage,,,,,,
-15,Mesic,Percentage,-1.612,-1.988,-1.262,Yes,18,188
-15,Mesic/Xeric,Percentage,-0.6832,-1.2501,-0.159,Yes,6,88
-15,Xeric,Percentage,-2.877,-3.346,-2.43,Yes,22,192
-15,Seed mass,Percentage,-0.02271,-0.30893,0.26988,No,42,428
-20,All,Percentage,-0.01941,-0.19524,0.16452,No,62,660
-20,Growth form,Percentage,,,,,,
-20,Herb,Percentage,0.6664,0.395,0.9368,Yes,24,316
-20,Shrub,Percentage,-0.572,-0.7987,-0.3395,Yes,38,344
-20,Distribution,Percentage,,,,,,
-20,Restricted,Percentage,0.23831,-0.08791,0.55131,No,21,216
-20,Widespread,Percentage,-0.1481,-0.3782,0.0726,No,41,444
-20,Microhabitat,Percentage,,,,,,
-20,Mesic,Percentage,0.09489,-0.18018,0.36291,No,20,216
-20,Mesic/Xeric,Percentage,0.46264,0.03816,0.91225,Yes,12,160
-20,Xeric,Percentage,-0.3861,-0.6786,-0.0886,Yes,30,284
-20,Seed mass,Percentage,-0.34065,-0.53437,-0.14784,Yes,30,620
-30,All,Percentage,-0.5284,-0.7103,-0.3417,Yes,60,640
-30,Growth form,Percentage,,,,,,
-30,Herb,Percentage,0.0918,-0.2049,0.3566,No,24,316
-30,Shrub,Percentage,-1.0538,-1.286,-0.8189,Yes,36,324
-30,Distribution,Percentage,,,,,,
-30,Restricted,Percentage,-0.26429,-0.53779,0.01925,No,36,216
-30,Widespread,Percentage,-0.6625,-0.9199,-0.4184,Yes,39,424
-30,Microhabitat,Percentage,,,,,,
-30,Mesic,Percentage,-0.7195,-0.995,-0.4348,Yes,20,216
-30,Mesic/Xeric,Percentage,0.2696,-0.2062,0.7473,No,11,148
-30,Xeric,Percentage,-0.7559,-1.032,-0.4824,Yes,29,276
-30,Seed mass,Percentage,-0.187951,-0.387852,0.001654,No,56,600
-35,All,Percentage,-2.4856,-2.793,-2.1963,Yes,60,640
-35,Growth form,Percentage,,,,,,
-35,Herb,Percentage,-2.1531,-2.6258,-1.6836,Yes,23,304
-35,Shrub,Percentage,-2.725,-3.114,-2.367,Yes,37,336
-35,Distribution,Percentage,,,,,,
-35,Restricted,Percentage,-2.132,-2.617,-1.673,Yes,20,204
-35,Widespread,Percentage,-2.66,-3.04,-2.271,Yes,40,436
-35,Microhabitat,Percentage,,,,,,
-35,Mesic,Percentage,-4.019,-4.537,-3.524,Yes,21,224
-35,Mesic/Xeric,Percentage,-0.9293,-1.4252,-0.4161,Yes,11,148
-35,Xeric,Percentage,-2.202,-2.661,-1.738,Yes,28,268
-35,Seed mass,Percentage,0.4549,0.149,0.7503,Yes,56,600
-40,All,Percentage,-1.2488,-1.7844,-0.7083,Yes,15,176
-40,Growth form,Percentage,,,,,,
-40,Herb,Percentage,-1.1882,-1.8925,-0.4537,Yes,7,176
-40,Shrub,Percentage,-1.3173,-2.1218,-0.5242,Yes,8,92
-40,Distribution,Percentage,,,,,,
-40,Restricted,Percentage,-0.9152,-1.4871,-0.3511,Yes,8,84
-40,Widespread,Percentage,-1.6294,-2.6292,-0.6284,Yes,8,92
-40,Microhabitat,Percentage,,,,,,
-40,Mesic,Percentage,-3.6776,-4.6987,-2.6865,Yes,3,36
-40,Mesic/Xeric,Percentage,-1.304,-2.2377,-0.3682,Yes,6,68
-40,Xeric,Percentage,-0.08512,-0.80384,0.65667,No,6,72
-40,Seed mass,Percentage,-1.1487,-1.6724,-0.6054,Yes,15,176
+10,All,Proportion,-4.295,-4.96,-3.613,Yes,8,88
+10,Growth form,Proportion,,,,,,
+10,Herb,Proportion,,,,,,
+10,Shrub,Proportion,,,,,,
+10,Distribution,Proportion,,,,,,
+10,Restricted,Proportion,-2.142,-3.194,-1.145,Yes,3,28
+10,Widespread,Proportion,-5.5047,-6.3933,-4.6912,Yes,5,60
+10,Microhabitat,Proportion,,,,,,
+10,Mesic,Proportion,,,,,,
+10,Mesic/Xeric,Proportion,,,,,,
+10,Xeric,Proportion,,,,,,
+10,Seed mass,Proportion,1.24186,0.63079,1.84254,Yes,8,88
+15,All,Proportion,-1.919,-2.176,-1.663,Yes,46,468
+15,Growth form,Proportion,,,,,,
+15,Herb,Proportion,-1.1193,-1.4746,-0.7862,Yes,16,220
+15,Shrub,Proportion,-2.661,-3.045,-2.261,Yes,30,248
+15,Distribution,Proportion,,,,,,
+15,Restricted,Proportion,-1.808,-2.267,-1.363,Yes,30,248
+15,Widespread,Proportion,-1.975,-2.313,-1.667,Yes,32,336
+15,Microhabitat,Proportion,,,,,,
+15,Mesic,Proportion,-1.612,-1.988,-1.262,Yes,18,188
+15,Mesic/Xeric,Proportion,-0.6832,-1.2501,-0.159,Yes,6,88
+15,Xeric,Proportion,-2.877,-3.346,-2.43,Yes,22,192
+15,Seed mass,Proportion,-0.02271,-0.30893,0.26988,No,42,428
+20,All,Proportion,-0.01941,-0.19524,0.16452,No,62,660
+20,Growth form,Proportion,,,,,,
+20,Herb,Proportion,0.6664,0.395,0.9368,Yes,24,316
+20,Shrub,Proportion,-0.572,-0.7987,-0.3395,Yes,38,344
+20,Distribution,Proportion,,,,,,
+20,Restricted,Proportion,0.23831,-0.08791,0.55131,No,21,216
+20,Widespread,Proportion,-0.1481,-0.3782,0.0726,No,41,444
+20,Microhabitat,Proportion,,,,,,
+20,Mesic,Proportion,0.09489,-0.18018,0.36291,No,20,216
+20,Mesic/Xeric,Proportion,0.46264,0.03816,0.91225,Yes,12,160
+20,Xeric,Proportion,-0.3861,-0.6786,-0.0886,Yes,30,284
+20,Seed mass,Proportion,-0.34065,-0.53437,-0.14784,Yes,30,620
+30,All,Proportion,-0.5284,-0.7103,-0.3417,Yes,60,640
+30,Growth form,Proportion,,,,,,
+30,Herb,Proportion,0.0918,-0.2049,0.3566,No,24,316
+30,Shrub,Proportion,-1.0538,-1.286,-0.8189,Yes,36,324
+30,Distribution,Proportion,,,,,,
+30,Restricted,Proportion,-0.26429,-0.53779,0.01925,No,36,216
+30,Widespread,Proportion,-0.6625,-0.9199,-0.4184,Yes,39,424
+30,Microhabitat,Proportion,,,,,,
+30,Mesic,Proportion,-0.7195,-0.995,-0.4348,Yes,20,216
+30,Mesic/Xeric,Proportion,0.2696,-0.2062,0.7473,No,11,148
+30,Xeric,Proportion,-0.7559,-1.032,-0.4824,Yes,29,276
+30,Seed mass,Proportion,-0.187951,-0.387852,0.001654,No,56,600
+35,All,Proportion,-2.4856,-2.793,-2.1963,Yes,60,640
+35,Growth form,Proportion,,,,,,
+35,Herb,Proportion,-2.1531,-2.6258,-1.6836,Yes,23,304
+35,Shrub,Proportion,-2.725,-3.114,-2.367,Yes,37,336
+35,Distribution,Proportion,,,,,,
+35,Restricted,Proportion,-2.132,-2.617,-1.673,Yes,20,204
+35,Widespread,Proportion,-2.66,-3.04,-2.271,Yes,40,436
+35,Microhabitat,Proportion,,,,,,
+35,Mesic,Proportion,-4.019,-4.537,-3.524,Yes,21,224
+35,Mesic/Xeric,Proportion,-0.9293,-1.4252,-0.4161,Yes,11,148
+35,Xeric,Proportion,-2.202,-2.661,-1.738,Yes,28,268
+35,Seed mass,Proportion,0.4549,0.149,0.7503,Yes,56,600
+40,All,Proportion,-1.2488,-1.7844,-0.7083,Yes,15,176
+40,Growth form,Proportion,,,,,,
+40,Herb,Proportion,-1.1882,-1.8925,-0.4537,Yes,7,176
+40,Shrub,Proportion,-1.3173,-2.1218,-0.5242,Yes,8,92
+40,Distribution,Proportion,,,,,,
+40,Restricted,Proportion,-0.9152,-1.4871,-0.3511,Yes,8,84
+40,Widespread,Proportion,-1.6294,-2.6292,-0.6284,Yes,8,92
+40,Microhabitat,Proportion,,,,,,
+40,Mesic,Proportion,-3.6776,-4.6987,-2.6865,Yes,3,36
+40,Mesic/Xeric,Proportion,-1.304,-2.2377,-0.3682,Yes,6,68
+40,Xeric,Proportion,-0.08512,-0.80384,0.65667,No,6,72
+40,Seed mass,Proportion,-1.1487,-1.6724,-0.6054,Yes,15,176
 10,All,Time,,,,,,
 10,Growth form,Time,,,,,,
 10,Herb,Time,,,,,,

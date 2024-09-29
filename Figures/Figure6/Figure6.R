@@ -47,7 +47,7 @@ figure_meta_fire_all$Mods <- factor(figure_meta_fire_all$Mods,
                                                "All"))
 
 figure_meta_fire_all$Variable <- factor(figure_meta_fire_all$Variable, 
-                                        levels = c("Percentage",
+                                        levels = c("Proportion",
                                                    "Time"))
 
 # With these dataset, we are going to to produce our figure.
@@ -93,7 +93,7 @@ figure_meta_fire_shock$Mods <- factor(figure_meta_fire_shock$Mods,
 
 
 figure_meta_fire_shock$Variable <- factor(figure_meta_fire_shock$Variable, 
-                                          levels = c("Percentage",
+                                          levels = c("Proportion",
                                                      "Time"))
 
 # Creating the figure for the heat shock data.
@@ -145,7 +145,7 @@ figure_meta_fire_heat$Mods <- factor(figure_meta_fire_heat$Mods,
                                                      "All"))
 
 figure_meta_fire_heat$Variable <- factor(figure_meta_fire_heat$Variable, 
-                                         levels = c("Percentage",
+                                         levels = c("Proportion",
                                                     "Time"))
 
 figure6c <- ggplot(data = figure_meta_fire_heat, aes(y = Mods,
@@ -193,7 +193,7 @@ figure_meta_fire_smoke$Mods <- factor(figure_meta_fire_smoke$Mods,
                                                       "All"))
 
 figure_meta_fire_smoke$Variable <- factor(figure_meta_fire_smoke$Variable, 
-                                          levels = c("Percentage",
+                                          levels = c("Proportion",
                                                      "Time"))
 
 figure6d <- ggplot(data = figure_meta_fire_smoke, aes(y = Mods,

@@ -16,7 +16,7 @@ prep_temperature <- function(fdat) {
                                                  "All"))
     
   constant_temperature$Variable <- factor(constant_temperature$Variable, 
-                                            levels = c("Percentage",
+                                            levels = c("Proportion",
                                                        "Time"))
   
   return(constant_temperature)

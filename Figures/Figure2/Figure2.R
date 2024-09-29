@@ -26,11 +26,11 @@ setwd(str_c(git_find(),"/Figures/Figure2"))
 
 # For creating this figure, we will be using the traits_joined data set, which contains both the information of the seed functional traits and the updated taxonomy following the Leipzig Catalogue of Vascular Plants. (See Section 2 in phylogenetic_signal.R)
 
-traits_joined <- read_csv(str_c(git_find(),"/Preprocessing/traits_joined.csv"))
+traits_joined <- read_csv(str_c(git_find(),"/Analyses/Phylogenetic_Signal/traits_joined.csv"))
 
 # We will also need the phylogenetic tree we have created in phylogeny.R, which is available in "outcrop_phylo.tre"
 
-full_tree <- read.tree(file = str_c(git_find(), "/outcrop_phylo.tre"))
+full_tree <- read.tree(file = str_c(git_find(), "/Analyses/Phylogeny/outcrop_phylo.tre"))
 
 #### 3. Prepare the datasets for the Figure ####
 
@@ -52,7 +52,7 @@ df1 <- traits_joined %>% # Take the 'trait_joined' data set.
 
 # Dispersal syndrome
 
-df2 <- syndrome <- traits_joined %>% # Take the 'trait_joined' data set.
+df2 <- traits_joined %>% # Take the 'trait_joined' data set.
   select(Species_acceptedLCVP, Dispersal_syndrome) %>% # Select these two columns.
   filter(!is.na(Species_acceptedLCVP), # Filter out species with no species record.
          !is.na(Dispersal_syndrome)) %>% # Filter out species without information on dispersal syndrome.
@@ -168,7 +168,7 @@ Figure2 <- ggtree(tr = full_tree, layout = "fan", open.angle = 10) + # We specif
                                 text.size  = 1.5,
                                 hjust      = 0.5,
                                 vjust      = 1.5,
-                                nbreak     = 3,
+                                nbreak     = 5,
                                 limits = c(0, 30)),
              grid.params = list(), fill = "#A6A6A6") +
   theme(legend.position = "none") # We will eliminate the legend for this graph and we'll add it manually on         Illustrator.
